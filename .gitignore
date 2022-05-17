@@ -23,3 +23,5 @@ yarn-error.log*
 *.sw?
 
 .now
+
+.now.json
